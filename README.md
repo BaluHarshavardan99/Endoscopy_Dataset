@@ -22,7 +22,6 @@ Endoscopy Text-Image Pairs Dataset
 10. Combining Text & Image
     * Building the CSV files - Currently working
 
-![image](https://github.com/BaluHarshavardan99/Endoscopy_Dataset/assets/63969460/71b5101b-34b0-4881-ac85-356e6388a2e8)
 
 
 
