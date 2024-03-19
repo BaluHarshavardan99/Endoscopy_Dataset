@@ -7,19 +7,20 @@ Endoscopy Text-Image Pairs Dataset
 2. Downloading YouTube video
    * PyTube Library
 3. Extracting Audio from video - moviepy
-4. Extracting key fames from video (Hyper-parameter: 0 -1) - ffmpeg
-5. Classifying the key frames using CLIP - CLIP Model
-6. Applying Quilt code on key frames to extract chunks (Hyper-parameter: pair_chunk_time)
+4. Extracting key fames from video (Hyper-parameter: 0 -1)
+    * ffmpeg
+6. Classifying the key frames using CLIP - CLIP Model
+7. Applying Quilt code on key frames to extract chunks (Hyper-parameter: pair_chunk_time)
     * Problem: “pair_chunk_time” (Currently working)
     * Raised the issue in GitHub and Mailed the authors – No Reply
-7. Extracting relevant audio bits and applying ASR
+8. Extracting relevant audio bits and applying ASR
     * Whisper v3 Large model
-8. Text Correction
+9. Text Correction
     * ChatGPT 4.0, Spacy
-9. Classification of Text & Extraction of Imp. points in text
+10. Classification of Text & Extraction of Imp. points in text
     * Few Shot Learning: Gathered Endoscopy Terms, relevant examples for corresponding terms
     * GPT 4.0 (test), Gemma (Implementation) - Currently working
-10. Combining Text & Image
+11. Combining Text & Image
     * Building the CSV files - Currently working
 
 
