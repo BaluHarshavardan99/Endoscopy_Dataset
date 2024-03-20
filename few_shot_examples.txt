@@ -1,0 +1,384 @@
+Anatomy
+
+**Z-line:**
+
+"text": "The gastroesophageal junction is clearly visible, showing a well-defined Z-line."
+"label": "Z-line"
+
+"text": "Noted a sharp demarcation at the Z-line with no signs of Barrett's esophagus."
+"label": "Z-line"
+
+"text": "Irregular Z-line observed, suggesting potential biopsies to assess for dysplasia."
+"label": "Z-line"
+
+"text": "A smooth transition at the Z-line with no abnormalities."
+"label": "Z-line"
+
+"text": "Z-line located at 40 cm from the incisors without visible lesions."
+"label": "Z-line"
+
+**Pylorus:**
+
+"text": "The pylorus is patent, with no evidence of obstruction or stenosis."
+"label": "Pylorus"
+
+"text": "Observed normal pyloric opening and closure during the examination."
+"label": "Pylorus"
+
+"text": "The pylorus and surrounding area appear unremarkable with no ulceration."
+"label": "Pylorus"
+
+"text": "Pyloric mucosa is intact, and the orifice functions normally."
+"label": "Pylorus"
+
+"text": "Visible pyloric spasm, suggesting further evaluation for potential causes."
+"label": "Pylorus"
+
+**Duodenum:**
+
+"text": "The duodenal bulb and sweep are normal with no ulcerations or masses."
+"label": "Duodenum"
+
+"text": "Noted normal villous pattern throughout the duodenum."
+"label": "Duodenum"
+
+"text": "The duodenum shows signs of mild erythema, possibly indicating duodenitis."
+"label": "Duodenum"
+
+"text": "Duodenal mucosa appears healthy with no evidence of celiac disease."
+"label": "Duodenum"
+
+"text": "A duodenal polyp was identified and marked for biopsy."
+"label": "Duodenum"
+
+**Esophagus:**
+
+"text": "The esophagus is normal in caliber with a smooth mucosal lining."
+"label": "Esophagus"
+
+"text": "Observed mild esophageal erythema, likely indicative of reflux esophagitis."
+"label": "Esophagus"
+
+"text": "The esophageal mucosa is intact, with no signs of Barrett’s or other abnormalities."
+"label": "Esophagus"
+
+"text": "Varices are noted in the lower esophagus, requiring careful monitoring."
+"label": "Esophagus"
+
+"text": "A Schatzki ring is observed at the distal esophagus, causing mild dysphagia."
+"label": "Esophagus"
+
+**Gastric Antrum:**
+
+"text": "The gastric antrum shows normal rugal fold pattern without erosions."
+"label": "Gastric Antrum"
+
+"text": "Noted mild gastritis in the antrum; biopsy samples were taken for H. pylori testing."
+"label": "Gastric Antrum"
+
+"text": "The antral mucosa is hyperemic, suggesting active inflammation."
+"label": "Gastric Antrum"
+
+"text": "Antral biopsy performed due to visible nodularity in the gastric antrum."
+"label": "Gastric Antrum"
+
+"text": "The gastric antrum is unremarkable, with no signs of peptic ulcer disease."
+"label": "Gastric Antrum"
+
+**Cecum:**
+
+"text": "Reached the cecum, identified by the appendix orifice and ileocecal valve, both appearing normal."
+"label": "Cecum"
+
+"text": "Cecal intubation confirmed with visualization of the ileocecal valve and base of the appendix."
+"label": "Cecum"
+
+"text": "The cecum shows a normal mucosal pattern without signs of inflammation or neoplasm."
+"label": "Cecum"
+
+"text": "Observed a lipoma in the cecum, well-delineated and non-obstructive during the examination."
+"label": "Cecum"
+
+"text": "Cecal biopsy taken for evaluation of localized erythema and possible early inflammatory disease."
+"label": "Cecum"
+
+
+
+
+**Colon:**
+
+"text": "Throughout the colon, from the cecum to the rectum, no diverticula, polyps, or masses were observed."
+"label": "Colon"
+
+"text": "Diffuse colonic inflammation with loss of vascular pattern, suggesting colitis."
+"label": "Colon"
+
+"text": "Colonoscopy shows a clean colon with no abnormalities detected, ready for surveillance interval determination."
+"label": "Colon"
+
+"text": "Found scattered diverticulosis in the sigmoid and descending colon, no signs of acute diverticulitis."
+"label": "Colon"
+
+"text": "A sessile serrated adenoma was identified and removed from the ascending colon."
+"label": "Colon"
+
+**Rectum:**
+
+"text": "Rectal examination reveals mild internal hemorrhoids without evidence of bleeding or prolapse."
+"label": "Rectum"
+
+"text": "No abnormalities detected in the rectum, including no signs of proctitis or malignancy."
+"label": "Rectum"
+
+"text": "Visualized rectal mucosa appears erythematous, suggesting inflammation possibly related to radiation proctitis."
+"label": "Rectum"
+
+"text": "A rectal polyp was found 5 cm from the anal verge and removed for histopathological examination."
+"label": "Rectum"
+
+"text": "The rectum shows features of chronic inflammation with pseudopolyps, compatible with ulcerative colitis involvement."
+"label": "Rectum"
+
+**Ileum:**
+
+"text": "The terminal ileum was intubated, showing no abnormalities, ulcers, or nodularity."
+"label": "Ileum"
+
+"text": "Observed patchy erythema and apthous ulcers in the ileum, suggestive of Crohn's disease."
+"label": "Ileum"
+
+"text": "Normal villous architecture seen in the ileum, with no evidence of active inflammation."
+"label": "Ileum"
+
+"text": "Ileal biopsy performed due to suspicious white patches; considering differential diagnosis including infection or Crohn's."
+"label": "Ileum"
+
+"text": "Significant narrowing and pre-stenotic dilation observed in the ileum, indicating a stricture possibly due to past inflammation."
+"label": "Ileum"
+
+**Jejunum:**
+
+"text": "The jejunum, as visualized through enteroscopy, shows normal mucosal patterns without signs of disease."
+"label": "Jejunum"
+
+"text": "Observed scattered areas of villous atrophy in the jejunum, raising concern for celiac disease."
+"label": "Jejunum"
+
+"text": "Jejunal loops are dilated, with evidence of partial obstruction, requiring further radiologic evaluation."
+"label": "Jejunum"
+
+"text": "Angioectasias found in the jejunum, responsible for the patient's obscure gastrointestinal bleeding."
+"label": "Jejunum"
+
+"text": "The jejunum showed hyperemia and swelling of the mucosa, indicative of infectious enteritis."
+"label": "Jejunum"
+
+Pathology
+
+**Esophagitis:**
+
+"text": "Endoscopic findings are consistent with Los Angeles Grade A esophagitis."
+"label": "Esophagitis"
+
+"text": "Moderate esophagitis with erosions observed halfway up the esophagus."
+"label": "Esophagitis"
+
+"text": "The distal esophagus shows signs of severe esophagitis with confluent erosions."
+"label": "Esophagitis"
+
+"text": "Eosinophilic esophagitis is suspected based on the ringed appearance of the esophagus."
+"label": "Esophagitis"
+
+"text": "Findings suggest reflux esophagitis, with notable erythema and mucosal breaks."
+"label": "Esophagitis"
+
+**Polyps:**
+
+"text": "A 5mm sessile polyp was found in the sigmoid colon and removed via snare polypectomy."
+"label": "Polyps"
+
+"text": "Multiple small polyps identified in the rectum, likely hyperplastic in nature."
+"label": "Polyps"
+
+"text": "Detected a pedunculated polyp in the ascending colon; biopsy taken for histopathology."
+"label": "Polyps"
+
+"text": "Colonoscopy revealed a large villous adenoma in the transverse colon."
+"label": "Polyps"
+
+"text": "Found and removed several polyps during surveillance colonoscopy, awaiting pathology results."
+"label": "Polyps"
+
+**Ulcerative Colitis:**
+
+"text": "Continuous colonic mucosal inflammation with pseudopolyps, indicative of ulcerative colitis."
+"label": "Ulcerative Colitis"
+
+"text": "Endoscopic examination shows ulcerative colitis in active phase with extensive ulceration."
+"label": "Ulcerative Colitis"
+
+"text": "Mild ulcerative colitis with limited involvement of the rectosigmoid junction."
+"label": "Ulcerative Colitis"
+
+"text": "Noted severe pancolitis consistent with a diagnosis of ulcerative colitis."
+"label": "Ulcerative Colitis"
+
+"text": "Ulcerative colitis with backwash ileitis, suggesting extensive disease activity."
+"label": "Ulcerative Colitis"
+
+**Gastritis:**
+
+"text": "Antral gastritis noted, with erythema and edema of the mucosa."
+"label": "Gastritis"
+
+"text": "Chronic gastritis identified, likely Helicobacter pylori-associated."
+"label": "Gastritis"
+
+"text": "Diffuse gastritis with multiple erosions in the stomach body and antrum."
+"label": "Gastritis"
+
+"text": "Endoscopic findings suggest chemical gastropathy with reactive gastritis."
+"label": "Gastritis"
+
+"text": "Atrophic gastritis observed, particularly in the fundus and body of the stomach."
+"label": "Gastritis"
+
+**Gastroesophageal Reflux Disease (GERD):**
+
+"text": "Mucosal breaks at the distal esophagus consistent with GERD."
+"label": "Gastroesophageal Reflux Disease (GERD)"
+
+"text": "Patient has a history of heartburn and endoscopy confirms GERD with erosive esophagitis."
+"label": "Gastroesophageal Reflux Disease (GERD)"
+
+"text": "GERD without Barrett's esophagus; Los Angeles Grade B esophagitis noted."
+"label": "Gastroesophageal Reflux Disease (GERD)"
+
+"text": "The gastroesophageal junction is competent, with minimal reflux observed during the procedure."
+"label": "Gastroesophageal Reflux Disease (GERD)"
+
+"text": "Hiatal hernia contributing to the patient's GERD symptoms, management to include PPI therapy."
+"label": "Gastroesophageal Reflux Disease (GERD)"
+
+**Barrett's Esophagus:**
+
+"text": "Endoscopic findings reveal long segments of Barrett's esophagus without dysplasia."
+"label": "Barrett's Esophagus"
+
+"text": "Short segment Barrett's observed, biopsy samples taken to check for intestinal metaplasia."
+"label": "Barrett's Esophagus"
+
+"text": "The presence of salmon-colored mucosa in the distal esophagus suggests Barrett's esophagus."
+"label": "Barrett's Esophagus"
+
+"text": "Surveillance endoscopy for Barrett's esophagus shows no progression to dysplasia."
+"label": "Barrett's Esophagus"
+
+"text": "Patient with a history of GERD now diagnosed with Barrett's esophagus; monitoring advised."
+"label": "Barrett's Esophagus"
+
+**Crohn's Disease:**
+
+"text": "Ileocolonoscopy reveals transmural inflammation and stricturing, indicative of Crohn's disease."
+"label": "Crohn's Disease"
+
+"text": "Noted aphthous ulcers and cobblestoning in the terminal ileum, consistent with Crohn's disease."
+"label": "Crohn's Disease"
+
+"text": "Crohn's disease with evidence of active inflammation in the form of skip lesions."
+"label": "Crohn's Disease"
+
+"text": "Fistulizing Crohn's disease identified, necessitating further surgical and medical management."
+"label": "Crohn's Disease"
+
+"text": "The colonoscopy shows patchy colitis typical of Crohn's disease, biopsy confirmed."
+"label": "Crohn's Disease"
+
+**Diverticulitis:**
+
+"text": "Signs of acute diverticulitis with localized tenderness and diverticula in sigmoid colon."
+"label": "Diverticulitis"
+
+"text": "CT scan and endoscopy confirm the presence of diverticulitis with associated abscess formation."
+"label": "Diverticulitis"
+
+"text": "Diverticulitis suspected due to inflamed and infected diverticula; patient presents with abdominal pain."
+"label": "Diverticulitis"
+
+"text": "Complicated diverticulitis with evidence of perforation; surgical consultation recommended."
+"label": "Diverticulitis"
+
+"text": "Patient with history of diverticulosis now showing signs of acute diverticulitis; antibiotics started."
+"label": "Diverticulitis"
+
+
+
+
+**Helicobacter pylori (H. pylori) infection:**
+
+"text": "Gastric biopsy positive for H. pylori infection, treatment to be initiated."
+"label": "Helicobacter pylori (H. pylori) infection"
+
+"text": "Patient presenting with peptic ulcer disease; H. pylori infection confirmed via breath test."
+"label": "Helicobacter pylori (H. pylori) infection"
+
+"text": "Endoscopic findings and biopsy results suggest chronic gastritis due to H. pylori infection."
+"label": "Helicobacter pylori (H. pylori) infection"
+
+"text": "Active H. pylori infection diagnosed, associated with increased risk of gastric cancer."
+"label": "Helicobacter pylori (H. pylori) infection"
+
+"text": "Eradication therapy for H. pylori initiated following positive stool antigen test."
+"label": "Helicobacter pylori (H. pylori) infection"
+
+
+**Celiac Disease:**
+
+"text": "Duodenal biopsy shows villous atrophy and crypt hyperplasia, consistent with celiac disease."
+"label": "Celiac Disease"
+
+"text": "Symptoms of malabsorption and positive serology suggest a diagnosis of celiac disease."
+"label": "Celiac Disease"
+
+"text": "Patient advised to follow a strict gluten-free diet following diagnosis of celiac disease."
+"label": "Celiac Disease"
+
+"text": "Marsh 3 changes observed in the duodenum, indicative of advanced celiac disease."
+"label": "Celiac Disease"
+
+"text": "Celiac disease confirmed through endoscopy and serological tests, including tTG antibodies."
+"label": "Celiac Disease"
+
+**Angiectasia:**
+
+"text": "Observed angiectasia in the jejunum, likely source of obscure gastrointestinal bleeding."
+"label": "Angiectasia"
+
+"text": "Capsule endoscopy reveals multiple sites of angiectasia throughout the small intestine."
+"label": "Angiectasia"
+
+"text": "Treated angiectasia in the colon with argon plasma coagulation to prevent further bleeding."
+"label": "Angiectasia"
+
+"text": "Angiectasias noted in the gastric antrum, asymptomatic but monitored for potential bleeding."
+"label": "Angiectasia"
+
+"text": "Diagnosis of hereditary hemorrhagic telangiectasia confirmed after finding angiectasia in the GI tract."
+"label": "Angiectasia"
+
+**Cancer:**
+
+"text": "Colonoscopy reveals a mass in the sigmoid colon suggestive of adenocarcinoma, biopsy taken."
+"label": "Cancer"
+
+"text": "Endoscopic ultrasound used to stage a suspected esophageal cancer based on mucosal irregularities."
+"label": "Cancer"
+
+"text": "A large gastric mass with ulceration observed, highly suggestive of gastric cancer; awaiting histology."
+"label": "Cancer"
+
+"text": "Patient presents with weight loss and anemia; endoscopy reveals advanced pancreatic cancer invading the duodenum."
+"label": "Cancer"
+
+"text": "Biopsy confirms diagnosis of cholangiocarcinoma after abnormal tissue seen in ERCP."
+"label": "Cancer"
