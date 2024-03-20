@@ -28,8 +28,8 @@ Endoscopy Text-Image Pairs Dataset
     * Whisper v3 Large model
 7. Text Correction
     * ChatGPT 4.0, Spacy
-8. Classification of Text & Extraction of Imp. points in text
-    * Few Shot Learning: Gathered Endoscopy Terms, relevant examples for corresponding terms
+8. Classification of Text & Time steps and corresponding frames extrapolation
+    * Few Shot Learning: Gathered Endoscopy Terms, and relevant examples for corresponding terms
     * GPT 4.0 (test), Gemma (Implementation) - Currently working
 9. Combining Text & Image
     * Building the CSV files - Currently working
