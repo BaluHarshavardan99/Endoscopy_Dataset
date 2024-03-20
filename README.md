@@ -15,6 +15,10 @@ Endoscopy Text-Image Pairs Dataset
 3. Extracting Audio from video - moviepy
 4. Extracting key fames from video (Hyper-parameter: 0 -1)
     * ffmpeg
+    * **Extracting keyframes:**
+       *ffmpeg -i video_test.mp4 -vf "select='gt(scene,0.1)',showinfo,setpts=N/FRAME_RATE/TB" -q:v 2 -vsync vfr -f image2 /home/easgrad/baluhars/PIPELINE/VIDEOS/test_frames/frames_%03d.jpg 2> keyframes_output.txt
+    * **Timestamps:** grep showinfo keyframes_output.txt | grep pts_time:[0-9.]* -o | grep [0-9.]* -o > keyframes_timestamps.txt
+
 6. Classifying the key frames using CLIP - CLIP Model
 7. Applying Quilt code on key frames to extract chunks (Hyper-parameter: pair_chunk_time)
     * Problem: “pair_chunk_time” (Currently working)
@@ -34,8 +38,4 @@ Endoscopy Text-Image Pairs Dataset
 
 For YouTube download: Use PyTube version 12.0.0
 
-**Extracting keyframes:** 
-
-  * ffmpeg -i video_test.mp4 -vf "select='gt(scene,0.1)',showinfo,setpts=N/FRAME_RATE/TB" -q:v 2 -vsync vfr -f image2 /home/easgrad/baluhars/PIPELINE/VIDEOS/test_frames/frames_%03d.jpg 2> keyframes_output.txt
-  * **Timestamps:** grep showinfo keyframes_output.txt | grep pts_time:[0-9.]* -o | grep [0-9.]* -o > keyframes_timestamps.txt
 
