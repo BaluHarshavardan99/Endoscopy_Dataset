@@ -4,7 +4,8 @@ Endoscopy Text-Image Pairs Dataset
 # Files Description
 1. YouTube_Audio_Video_Download.py -
 2. clip_classification.py - 
-3. youtube_urls.txt - 
+3. youtube_urls.txt -
+4. whisper_v3_audio2text.py - 
 
 # Data Processing Steps
 1. Selecting YouTube video
