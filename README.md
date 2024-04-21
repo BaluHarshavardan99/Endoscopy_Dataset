@@ -16,8 +16,7 @@ Endoscopy Text-Image Pairs Dataset
    * Extracting Audio from video - moviepy
 3. Extracting key fames from video (Hyper-parameter: 0 -1)
     * ffmpeg
-    * **Extracting keyframes:**
-       *ffmpeg -i video_test.mp4 -vf "select='gt(scene,0.1)',showinfo,setpts=N/FRAME_RATE/TB" -q:v 2 -vsync vfr -f image2 /home/easgrad/baluhars/PIPELINE/VIDEOS/test_frames/frames_%03d.jpg 2> keyframes_output.txt
+    * **Extracting keyframes:** ffmpeg -i video_test.mp4 -vf "select='gt(scene,0.1)',showinfo,setpts=N/FRAME_RATE/TB" -q:v 2 -vsync vfr -f image2 /home/easgrad/baluhars/PIPELINE/VIDEOS/test_frames/frames_%03d.jpg 2> keyframes_output.txt
     * **Timestamps:** grep showinfo keyframes_output.txt | grep pts_time:[0-9.]* -o | grep [0-9.]* -o > keyframes_timestamps.txt
 
 4. Classifying the key frames using CLIP - CLIP Model
