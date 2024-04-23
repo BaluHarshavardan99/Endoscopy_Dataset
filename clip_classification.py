@@ -2,36 +2,35 @@ import torch
 import clip
 from PIL import Image
 import os
+from utils import COLOR
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
-model, preprocess = clip.load("ViT-B/32", device=device)
-
-# Path to the folder containing images
-folder = "/home/easgrad/baluhars/PIPELINE/FINAL_TEST/KEY_FRAMES/5"
-
-
-# Get the list of image files in the folder
-image_files = [os.path.join(folder, file) for file in os.listdir(folder)]
-index_list = []
-for image_path in image_files:
-    image = preprocess(Image.open(image_path)).unsqueeze(0).to(device)
-    text = clip.tokenize(["an endoscopic image from endoscopy camera", "a presentation slide on endoscopy techniques"]).to(device)
-
-    with torch.no_grad():
-        image_features = model.encode_image(image)
-        text_features = model.encode_text(text)
-
-        logits_per_image, logits_per_text = model(image, text)
-        probs = logits_per_image.softmax(dim=-1).cpu().numpy()
+class CLIP_CLF:
+    def __init__(self, model_name):
+        # super(clip_clf, self).__init__()
+        self.model, preprocess = clip.load("ViT-B/32", device=self.device)
     
-    # Find the highest probability in the list of probs
-    max_prob = max(probs[0])
+# device = "cuda" if torch.cuda.is_available() else "cpu"
+    def forward(self):
+        image_files = [os.path.join(self.args.frame_path, file) for file in os.listdir(self.args.frame_path)]
+        index_list = []
+        for image_path in image_files:
+            image = preprocess(Image.open(image_path)).unsqueeze(0).to(self.device)
+            text = clip.tokenize(["an endoscopic image from endoscopy camera", "a presentation slide on endoscopy techniques"]).to(self.device)
 
-    # Find the index of the highest probability
-    index = list(probs[0]).index(max_prob)
-    if index==1:
-        print("Index is 1 and image is ......", image_path)
-    index_list.append(index)
+            with torch.no_grad():
+                image_features = model.encode_image(image)
+                text_features = model.encode_text(text)
 
+                logits_per_image, logits_per_text = model(image, text)
+                probs = logits_per_image.softmax(dim=-1).cpu().numpy()
+            
+            # Find the highest probability in the list of probs
+            max_prob = max(probs[0])
 
-print("Index list is .......................", index_list)
+            index = list(probs[0]).index(max_prob)
+            if index==1:
+                print(Color.GREEN + "Index is 1 and image is"+ image_path + Color.END)
+            index_list.append(index)
+
+        print(Color.GREEN + "Index list is"+ index_list + Color.END)
+        # print("### Index list is .......................", index_list)
