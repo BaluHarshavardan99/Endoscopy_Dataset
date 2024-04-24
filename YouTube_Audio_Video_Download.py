@@ -5,6 +5,7 @@ from pytube import YouTube
 class YB_Downloader:
     def __init__(self):
         # super(CLASS_NAME, self).__init__(*args, **kwargs)
+        pass
         
     def Download(self, link, name, tot, rem_files):
         yt = YouTube(
@@ -38,4 +39,7 @@ class YB_Downloader:
                 counter+=1
 
     #file_path = input("Enter the path to the .txt file containing YouTube video links: ")
-    download_from_file(self.data_dir + "/" + "video_links.txt")
+    download_from_file(self.data_dir + "/" + "youtube_urls.txt")
+
+if __name == "__main__":
+    you = YB_Downloader()
