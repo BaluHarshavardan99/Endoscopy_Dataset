@@ -7,7 +7,7 @@
 
 
 
-# THE IMAGE PATHS IN THE image_paths.csv file should be changed slightly
-
-* Original path: - /home/easgrad/baluhars/1234567890/Video_Dataset/SUNDAY_TEST/keyframes_images/j4oNAvbo6yg/frames_003.jpg
+# All the image paths in the image_paths.csv file should be changed slightly
+The last part of the path "keyframes_images/j4oNAvbo6yg/frames_003.jpg" remains the same. The directory has to be changed as shown below -   
+* Original path: /home/easgrad/baluhars/1234567890/Video_Dataset/SUNDAY_TEST/keyframes_images/j4oNAvbo6yg/frames_003.jpg
 * Changed path: ...your directory.../keyframes_images/j4oNAvbo6yg/frames_003.jpg
