@@ -1,4 +1,9 @@
+# Google Drive Link:
 
+https://drive.google.com/drive/folders/1Pa55JaKZ8TMFRgjFWwOXVOkJbQs1EvFz?usp=sharing
+
+# Instructions:
+Unzip the keyframes_images.zip
 
 # CSV Files:
 1. image_paths.csv - contains the image paths of each chunk
