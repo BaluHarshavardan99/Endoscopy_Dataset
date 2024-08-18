@@ -1,6 +1,8 @@
 # Endoscopy Dataset: Text-Image Pair Dataset
 Endoscopy Text-Image Pairs Dataset
 
+The Pipeline for the Dataset Extraction is present in Data-Pipeline folder.
+
 # Files Description
 1. YouTube_Audio_Video_Download.py -
 2. clip_classification.py - 
