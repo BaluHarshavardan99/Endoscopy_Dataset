@@ -48,14 +48,15 @@ The dataset extraction code is located in the `Data-Pipeline` folder.
 8. **Combining Text & Image**
     - Create CSV files by combining the processed text and corresponding images.
 
-## Usage
+## Endoscopy-Classifier
 
-1. Clone this repository.
-2. Navigate to the `Data-Pipeline` folder.
-3. Follow the steps outlined in the data processing section to generate the dataset.
+The `Endoscopy-Classifier` folder contains the model training code and the saved weights used for classifying keyframes in the dataset. This includes the architecture, training scripts, and pre-trained models specifically tailored for endoscopy video classification.
+
 
 ## Requirements
 
+- Python
+- PyTorch
 - PyTube 12.0.0
 - moviepy
 - FFmpeg
@@ -63,6 +64,7 @@ The dataset extraction code is located in the `Data-Pipeline` folder.
 - Whisper-v3-large
 - SpaCy
 - ChatGPT 4.0 API
+  
 
 Ensure all dependencies are installed before running the code.
 
