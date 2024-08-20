@@ -28,6 +28,4 @@ This folder contains scripts essential for processing endoscopy videos and creat
 - Relevant Python libraries as specified in the main `README.md`.
 
 
-## License
 
-This project is licensed under the MIT License.
